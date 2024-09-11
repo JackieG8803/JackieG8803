@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jackie, an <a href="www.linkedin.com/in/jackie-giang-760748305">IT Professional</a>☺</h1>
+## Hi there 👋 I'm Jackie, an <a href="https://www.linkedin.com/in/jackie-giang-760748305/">IT Professional</a>☺</h1>
 - 🔭 I’m currently working on ...
 
 <!--
