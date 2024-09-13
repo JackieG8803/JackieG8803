@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](link)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](link)
+  - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](link)
 
  <h2>🤳Connect with me:</h2>
 
