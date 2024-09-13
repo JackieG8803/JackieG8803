@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](link)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
-  - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](link)
+  - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](https://github.com/JackieG8803/Monitoring-Traffic-in-Azure-VMs---Observe-ICMP-Traffic)
 
  <h2>🤳Connect with me:</h2>
 
