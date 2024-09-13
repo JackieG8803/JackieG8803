@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
   - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](https://github.com/JackieG8803/Monitoring-Traffic-in-Azure-VMs---Observe-ICMP-Traffic)
-  - [SSH Connection from VM to VM](link)
+  - [SSH Connection from VM to VM](https://github.com/JackieG8803/SSH-Connection-from-VM-to-VM)
 
 
  <h2>🤳Connect with me:</h2>
