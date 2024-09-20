@@ -4,7 +4,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JackieG8803/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JackieG8803/Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](link)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JackieG8803/osTicket-Ticket-Lifecycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
   - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](https://github.com/JackieG8803/Monitoring-Traffic-in-Azure-VMs---Observe-ICMP-Traffic)
