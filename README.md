@@ -1,14 +1,15 @@
 ## Hi there 👋 I'm Jackie, an <a href="https://www.linkedin.com/in/jackie-giang-760748305/">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JackieG8803/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JackieG8803/Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JackieG8803/osTicket-Ticket-Lifecycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
   - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](https://github.com/JackieG8803/Monitoring-Traffic-in-Azure-VMs---Observe-ICMP-Traffic)
   - [SSH Connection from VM to VM](https://github.com/JackieG8803/SSH-Connection-from-VM-to-VM)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/JackieG8803/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/JackieG8803/Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JackieG8803/osTicket-Ticket-Lifecycle-Examples/tree/main)
+
 
 
  <h2>🤳Connect with me:</h2>
