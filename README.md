@@ -9,7 +9,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JackieG8803/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JackieG8803/Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JackieG8803/osTicket-Ticket-Lifecycle-Examples/tree/main)
-
+- <b>Cisco Packet Tracer</b>
+  - 
 
 
  <h2>🤳Connect with me:</h2>
