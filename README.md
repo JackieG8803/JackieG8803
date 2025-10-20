@@ -13,7 +13,7 @@
   - [Building My Own Network Topology in Cisco Packet Tracer](https://github.com/JackieG8803/Building-My-Own-Network-Topology-in-Cisco-Packet-Tracer)
 - <b>VMware Projects</b>
   - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
-  - [Tripwire Directory Integrity Script on Linux]()
+  - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
 
  <h2>🤳Connect with me:</h2>
 
