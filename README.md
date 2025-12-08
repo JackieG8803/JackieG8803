@@ -13,7 +13,8 @@
 - ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 <b>Cisco Packet Tracer</b>
   - [Building My Own Network Topology in Cisco Packet Tracer](https://github.com/JackieG8803/Building-My-Own-Network-Topology-in-Cisco-Packet-Tracer)
-- [![My Skills](https://skillicons.dev/icons?i=vmware)](https://skillicons.dev) <b>VMware Projects</b>
+- ![Broadcom](https://img.shields.io/badge/Broadcom-CA1F24?style=for-the-badge&logo=broadcom&logoColor=white)
+ <b>VMware Projects</b>
   - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
   - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
 - [![My Skills](https://skillicons.dev/icons?i=aws,linux,python)](https://skillicons.dev)<b>AWS Lambda!</b>
