@@ -18,7 +18,7 @@
   - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
   - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
 - [![My Skills](https://skillicons.dev/icons?i=aws,linux,python)](https://skillicons.dev)<b>AWS Lambda!</b>
-  - 
+  - [AWS Lambda Function - Farming Simulator](https://github.com/JackieG8803/AWS-Lambda-Function-Farming-Simulator/blob/main/README.md)
 
 
 
