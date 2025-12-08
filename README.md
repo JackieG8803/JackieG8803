@@ -14,7 +14,8 @@
 - <b>VMware Projects</b>
   - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
   - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Lambda
+- [!(https://skillicons.dev/icons?i=aws,python)](https://skillicons.dev)
+ Lambda
   - 
 
 
