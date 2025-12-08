@@ -1,21 +1,24 @@
 ## Hi there 👋 I'm Jackie, an <a href="https://www.linkedin.com/in/jackie-giang-760748305/">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
   - [Monitoring Traffic in Azure VMs - Observe ICMP Traffic](https://github.com/JackieG8803/Monitoring-Traffic-in-Azure-VMs---Observe-ICMP-Traffic)
   - [SSH Connection from VM to VM](https://github.com/JackieG8803/SSH-Connection-from-VM-to-VM)
-- <b>osTicket (Help Desk Ticketing System)</b>
+- ![osTicket](https://img.shields.io/badge/osTicket-0088CC?style=for-the-badge&logoColor=white)
+<b>(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JackieG8803/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JackieG8803/Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JackieG8803/osTicket-Ticket-Lifecycle-Examples/tree/main)
-- <b>Cisco Packet Tracer</b>
+- ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+<b>Cisco Packet Tracer</b>
   - [Building My Own Network Topology in Cisco Packet Tracer](https://github.com/JackieG8803/Building-My-Own-Network-Topology-in-Cisco-Packet-Tracer)
-- <b>VMware Projects</b>
+- [![My Skills](https://skillicons.dev/icons?i=vmware)](https://skillicons.dev)
+<b>VMware Projects</b>
   - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
   - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
 - [![My Skills](https://skillicons.dev/icons?i=aws,linux,python)](https://skillicons.dev)
- AWS Lambda!
+ <b>AWS Lambda!</b>
   - 
 
 
