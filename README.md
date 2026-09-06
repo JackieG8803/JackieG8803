@@ -4,7 +4,8 @@
 
 This portfolio collects hands-on projects across Microsoft Azure, AWS, Linux, Windows Server, networking, help desk operations, and security controls. Each project documents a practical lab or implementation rather than only listing a technology.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jackie-giang-760748305/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jackie-giang-760748305/)  
+Please check out my secondary [GitHub Profile](https://github.com/Ja-Gia772473) and [DevOps Portfolio](https://github.com/Ja-Gia772473/jackiegiang-devops-portfolio/blob/main/README.md) too!
 
 ## Featured project
 
@@ -38,6 +39,7 @@ A Node.js API deployed to AWS Elastic Beanstalk through GitHub Actions. The proj
 
 ### Windows, Linux, and security
 
+- [Linux Web Server with Nginx](https://github.com/Ja-Gia772473/jackiegiang-devops-portfolio/tree/main/projects/01-linux-web-server)
 - [Windows Server Features](https://github.com/JackieG8803/Windows-Server-Features---VMware-Lab)
 - [Tripwire Directory Integrity Script on Linux](https://github.com/JackieG8803/Tripwire-Directory-Integrity-Script)
 - [Equity Vista Bank: Active Directory Security Lab](https://github.com/JackieG8803/IT-Security-Controls/tree/main)
