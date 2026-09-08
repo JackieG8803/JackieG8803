@@ -21,6 +21,10 @@ A Node.js API deployed to AWS Elastic Beanstalk through GitHub Actions. The proj
 
 ## Projects
 
+### DevOps Projects
+
+- [Synthetic API Monitor](https://github.com/Ja-Gia772473/synthetic-api-monitor)
+
 ### Microsoft Azure
 
 - [Creating a Virtual Machine in Azure](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure)
